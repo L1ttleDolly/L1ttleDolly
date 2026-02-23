@@ -1,6 +1,6 @@
 <h1 align="center">Привет, мир! (▽◕ ᴥ ◕▽)</h1>
   <div align="center">
-      <img src="https://i.pinimg.com/originals/5a/a7/d6/5aa7d6cc10779cbb331b75636f06b54a.gif" alt="React animation"  height="200" />
+      <img src="https://i.pinimg.com/originals/5a/a7/d6/5aa7d6cc10779cbb331b75636f06b54a.gif" alt="Канна кушает world"  height="200" />
   </div>   
   <div align="center" dir="auto">
   <h2>Меня зовут Виталия. Я Frontend-разработчик</h2>
