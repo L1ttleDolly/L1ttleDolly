@@ -132,7 +132,7 @@
   </a>
       <a href="https://leetcode.com/u/LittleDolly/" target="_blank" rel="noreferrer noopener">
     <img 
-      src="https://img.shields.io/badge/-LeetCode-000000?logo=leetcodes&logoColor=white&style=for-the-badge" alt="LeetCode logo" title="LeetCode" height="35"  style="max-width: 100%; height: auto; max-height: 25px;" 
+      src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcodes&logoColor=white&style=for-the-badge" alt="LeetCode logo" title="LeetCode" height="35"  style="max-width: 100%; height: auto; max-height: 25px;" 
     /> 
   </a>
   
