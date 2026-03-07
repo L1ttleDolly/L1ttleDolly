@@ -124,18 +124,7 @@
     <img 
       src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn logo" title="LinkedIn" height="35"  style="max-width: 100%; height: auto; max-height: 25px;" 
     /> 
-  </a>
-    <a href="https://www.codewars.com/users/L1ttleDolly" target="_blank" rel="noreferrer noopener">
-    <img 
-      src="https://img.shields.io/badge/-CodeWars-000000?logo=codewars&logoColor=white&style=for-the-badge" alt="codewars logo" title="codewars" height="35"  style="max-width: 100%; height: auto; max-height: 25px;" 
-    /> 
-  </a>
-      <a href="https://leetcode.com/u/LittleDolly/" target="_blank" rel="noreferrer noopener">
-    <img 
-      src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode logo" title="LeetCode" height="35"  style="max-width: 100%; height: auto; max-height: 25px;" 
-    /> 
-  </a>
-  
+  </a>  
 </div>
   <h2>Буду рада пообщаться, всем peace ૮ ˶ᵔ ᵕ ᵔ˶ ა</h2>
   <div align="center">
